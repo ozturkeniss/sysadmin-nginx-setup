@@ -1,0 +1,20 @@
+=== Nginx Access Log Analizi ===
+Analiz Zamanı: Prş 21 Ağu 2025 01:46:32 +03
+Log Dosyası: /var/log/nginx/nginx-demo-access.log
+
+📊 GENEL İSTATİSTİKLER:
+- Toplam İstek Sayısı: 1
+- Son 1 Saatteki İstekler: 0
+
+🌐 EN POPÜLER IP ADRESLERİ:
+      1 127.0.0.1
+
+📄 EN POPÜLER SAYFALAR:
+      1 /
+
+🔢 HTTP DURUM KODLARI:
+      1 200
+
+🤖 EN POPÜLER USER-AGENT'LAR:
+      1 curl/8.5.0
+

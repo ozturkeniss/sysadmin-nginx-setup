@@ -1,0 +1,33 @@
+=== SECURITY MONITORING SUMMARY ===
+Generated: Prş 21 Ağu 2025 01:47:11 +03
+
+🔒 SECURITY STATUS:
+
+1. FAILED LOGIN ATTEMPTS:
+0 attempts today
+
+2. FIREWALL STATUS:
+UFW not available
+
+3. FAIL2BAN STATUS:
+Fail2ban not available
+
+4. SSL/TLS STATUS:
+SSL certificates not found
+
+5. NETWORK ACTIVITY:
+4 listening ports
+0 active connections
+
+6. RECENT ALERTS:
+[0;32m[2025-08-21 01:47:10] Failed login attempts: 0 (normal range)[0m
+[0;34m[INFO] Monitoring firewall events...[0m
+[0;31m[ALERT] UFW firewall is not active![0m
+[0;34m[INFO] Monitoring Fail2ban status...[0m
+[1;33m[WARNING] Fail2ban is not installed[0m
+[0;34m[INFO] Monitoring SSL/TLS security...[0m
+[1;33m[WARNING] SSL certificates not found[0m
+[0;34m[INFO] Monitoring network activity...[0m
+[0;32m[2025-08-21 01:47:10] Active connections: 0, Listening ports: 4[0m
+[0;34m[INFO] Generating security summary...[0m
+

@@ -1,0 +1,30 @@
+=== NGINX GÜNLÜK RAPOR ===
+Tarih: 20/Ağu/2025
+Oluşturulma: Prş 21 Ağu 2025 01:47:03 +03
+
+📊 GENEL İSTATİSTİKLER:
+- Toplam İstek: 0
+- Benzersiz Ziyaretçi: 0
+- Toplam Hata: 0
+- Kritik Hata (5xx): 0
+- Transfer Edilen Veri: 0 MB
+- Ortalama Response Time: N/A
+
+📄 EN POPÜLER SAYFALAR:
+
+
+🌐 EN AKTİF IP ADRESLERİ:
+
+
+🔢 HTTP DURUM KODLARI:
+
+
+⏰ SAATLİK DAĞILIM:
+
+
+🤖 USER-AGENT DAĞILIMI:
+
+
+🔗 REFERRER ANALİZİ:
+
+

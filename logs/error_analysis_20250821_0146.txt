@@ -1,0 +1,11 @@
+=== Nginx Error Log Analizi ===
+Analiz Zamanı: Prş 21 Ağu 2025 01:46:32 +03
+Log Dosyası: /var/log/nginx/nginx-demo-error.log
+
+❌ HATA İSTATİSTİKLERİ:
+- Son 1 Saatteki Hatalar: 0
+- Kritik Hatalar (5xx): 0
+
+🚨 HATA TÜRLERİ:
+
+

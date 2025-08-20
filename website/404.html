@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Sayfa Bulunamadı</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #ff6b6b 0%, #ee5a24 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+        }
+        .container {
+            text-align: center;
+            max-width: 600px;
+            padding: 2rem;
+        }
+        .error-code {
+            font-size: 8rem;
+            font-weight: bold;
+            margin: 0;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        .error-message {
+            font-size: 1.5rem;
+            margin: 1rem 0;
+            opacity: 0.9;
+        }
+        .description {
+            font-size: 1.1rem;
+            margin: 1rem 0;
+            opacity: 0.8;
+            line-height: 1.6;
+        }
+        .home-button {
+            display: inline-block;
+            background: rgba(255,255,255,0.2);
+            color: white;
+            padding: 12px 24px;
+            text-decoration: none;
+            border-radius: 25px;
+            margin-top: 2rem;
+            transition: all 0.3s ease;
+            border: 2px solid rgba(255,255,255,0.3);
+        }
+        .home-button:hover {
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-2px);
+        }
+        .icon {
+            font-size: 4rem;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="icon">🔍</div>
+        <h1 class="error-code">404</h1>
+        <h2 class="error-message">Sayfa Bulunamadı</h2>
+        <p class="description">
+            Aradığınız sayfa mevcut değil veya taşınmış olabilir.<br>
+            URL'yi kontrol edin veya ana sayfaya dönün.
+        </p>
+        <a href="/" class="home-button">🏠 Ana Sayfaya Dön</a>
+    </div>
+</body>
+</html>

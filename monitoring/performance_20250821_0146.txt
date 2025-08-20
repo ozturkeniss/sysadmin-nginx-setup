@@ -1,0 +1,9 @@
+=== Nginx Performans Analizi ===
+Analiz Zamanı: Prş 21 Ağu 2025 01:46:33 +03
+
+⚡ PERFORMANS METRİKLERİ:
+- Nginx Process Sayısı: 4
+- Memory Kullanımı: 15,1836 MB
+- CPU Kullanımı: 15%
+- Log Disk Kullanımı: 5%
+
